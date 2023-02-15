@@ -7,6 +7,9 @@ This is an exciting web-app that lets you play with colors. You can covert hex v
 ***
 <b>Name: SOURITA RAY</b>
 ***
+## What have I learned?
+
+- How to use Javascript Prototype 
 
 ## Time taken to complete the project
 
